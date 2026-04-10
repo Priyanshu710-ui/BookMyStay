@@ -44,7 +44,7 @@ class SuiteRoom extends Room {
 }
 
 
-public class BookMyStay {
+public class Bookmystay {
 
     public static void main(String[] args) {
 
